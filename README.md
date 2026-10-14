@@ -5,7 +5,7 @@
 npm install
 npm run dev
 ~~~
-
+npm ci
 ## Документация
 
 - https://nextjs.org/docs/app/getting-started/project-structure
